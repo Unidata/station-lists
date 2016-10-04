@@ -17,7 +17,6 @@ PARC     999999 ARCTIC VILLAGE                   AK US  6812 -14558   636  0
 PATQ     999999 ATQASUK BURNELL                  AK US  7047 -15743    29  0
 PAAK     999999 ATKA                             AK US  5222 -17420    17  0
 PABR     700260 BARROW                           AK US  7128 -15680     7  0
-         700270 BARROW ARM-NSA                   AK US  7131 -15662     7  0
 PABA     700860 BARTER ISLAND                    AK US  7013 -14358     2  0
 PABE     702190 BETHEL                           AK US  6078 -16185    41  0
 PABC     999999 BETHEL/88D                       AK US  6080 -16188    49  0
@@ -32,7 +31,6 @@ PAEH     703050 CAPE NEWENHAM                    AK US  5865 -16207   161  0
 PACZ     702120 CAPE ROMANZOF                    AK US  6178 -16603   146  0
 PARL     999999 CENTRAL                          AK US  6556 -14478   284  0
 PACE     999999 CENTRAL                          AK US  6556 -14478   286  0
-         701970 CENTRAL AK PROF                  AK US  6550 -14468   259  0
 PALR     999999 CHANDALAR LAKE                   AK US  6750 -14847   585  0
 PAVA     999999 CHEVAK                           AK US  6153 -16560    23  0
 PAJC     999999 CHIGNIK BAY                      AK US  5632 -15837    15  0
@@ -67,7 +65,6 @@ PAFN     999999 FUNTER BAY                       AK US  5825 -13490     9  0
 PAGB     999999 GALBRAITH LAKE                   AK US  6848 -14947   811  0
 PAGA     702220 GALENA                           AK US  6473 -15693    46  0
 PAGM     702040 GAMBELL                          AK US  6377 -17173     8  0
-         702680 GLENNALLEN PROF                  AK US  6212 -14597   564  0
 PAGL     999999 GOLOVIN                          AK US  6455 -16303     8  0
 PAGK     702710 GULKANA                          AK US  6215 -14544   481  0
 PAGS     703670 GUSTAVUS                         AK US  5842 -13572     9  0
@@ -124,7 +121,6 @@ PANN     702600 NENANA                           AK US  6455 -14908   110  0
 PANW     999999 NEW STUYAHOK                     AK US  5945 -15737    92  0
 PAFS     999999 NIKOLAI                          AK US  6302 -15435   126  0
 PAOM     702000 NOME                             AK US  6450 -16543    11  0
-         999999 NOME/88D/PAEC                    AK US  6452 -16530    16  0
 PAEC     999999 CHULITNA                         AK US  6288 -14983   381  0
 PAOR     702910 NORTHWAY                         AK US  6297 -14193   523  0
 PAWN     999999 NOATAK                           AK US  6756 -16297    30  0
@@ -181,7 +177,6 @@ PAER     999999 STONY RIVER LAND                 AK US  6127 -15380   345  0
 PAJV     999999 SUTTON                           AK US  6172 -14888   263  0
 PASP     999999 TAHNETNA PASS LO                 AK US  6182 -14755   799  0
 PATK     702510 TALKEETNA                        AK US  6230 -15010   109  0
-         702520 TALKEETNA PROF                   AK US  6232 -15041   137  0
 PATA     701780 TANANA                           AK US  6517 -15210    67  0
 PATL     999999 TATALINA AFS                     AK US  6290 -15597   294  0
 PATE     999999 TELLER                           AK US  6523 -16633    90  0
@@ -410,7 +405,6 @@ KEMT     747040 EL MONTE                         CA US  3407 -11802    90  0
 KBLU     999999 EMIGRANT GAP                     CA US  3928 -12070  1609  0
 KEKA     725940 EUREKA/MURRAY                    CA US  4079 -12417    18  0
 KL18     999999 FALLBROOK                        CA US  3335 -11725   216  0
-         999999 FORTUNA/FOT/VOR                  CA US  4067 -12423   122  0
 KFOT     999999 FORTUNA                          CA US  4054 -12413   120  0
 KFAT     723890 FRESNO                           CA US  3678 -11972   104  0
 KCZQ     999999 FRESNO(VOR)                      CA US  3688 -11982   104  0
@@ -459,7 +453,6 @@ KNUQ     745090 MOFFETT NAS/MTN                  CA US  3740 -12205    12  0
 KMHV     999999 MOJAVE                           CA US  3507 -11815   849  0
 KSIY     999999 MONTAGUE/SISKIYO                 CA US  4177 -12247   807  0
 KMRY     999999 MONTEREY                         CA US  3658 -12185    66  0
-         999999 MONTEREY/WFOKMTR                 CA US  3658 -12185    66  0
 KMHS     725950 MOUNT SHASTA                     CA US  4132 -12232  1078  0
 KMWS     722890 MOUNT WILSON                     CA US  3422 -11805  1739  0
 KF70     999999 MURRIETA/TEMECUL                 CA US  3357 -11713   412  0
@@ -550,19 +543,15 @@ KO00     999999 ALTURAS                          CA US  4148 -12057  1331  0
 KS11     999999 ALTURAS                          CA US  4150 -12052  1341  0
 K92Q     999999 BODEGA BAY                       CA US  3832 -12305     3  0
 KNRC     999999 CROWS LANDING                    CA US  3740 -12110    50  0
-         746180 CUDDLEBACK GUN R                 CA US  3527 -11743   864  0
 KNZJ     690140 EL TORO MCAS                     CA US  3367 -11772   117  0
 KOAR     999999 FORT ORD/FRITZSC                 CA US  3667 -12177    41  0
 K1O5     999999 MONTAGUE/YREKA                   CA US  4173 -12253   771  0
 KL32     999999 OCEANSIDE                        CA US  3322 -11735     8  0
 K53Q     723920 PILAR POINT AFS                  CA US  3750 -12250    49  0
-         999999 POINT ARGUELLO                   CA US  3495 -12187    23  0
 KPGU     994210 POINT ARGUELLO                   CA US  3457 -12035    12  0
 KPAA     724990 POINT ARENA                      CA US  3895 -12327    18  0
-         994120 POINT ARENA                      CA US  3895 -12327    17  0
 KL39     999999 ROMONA                           CA US  3303 -11692   427  0
 KRIU     999999 RANCHO MURIETA                   CA US  3847 -12110    45  0
-         747180 SALTON SEA                       CA US  3408 -11803     1  0
 K4SU     746190 SUPERIOR VALLEY                  CA US  3533 -11710   962  0
 KNTK     690160 TUSTIN MCAS                      CA US  3370 -11782    17  0
 KO45     999999 VACAVILLE                        CA US  3838 -12195    33  0
@@ -593,7 +582,6 @@ KEGE     999999 EAGLE CO. REGION                 CO US  3963 -10692  1993  0
 KDBL     999999 RED TABLE VOR                    CO US  3943 -10690  3584  0
 KFCS     724680 FORT CARSON                      CO US  3867 -10477  1789  0
 KFNL     999999 FT COLLINS/LOVEL                 CO US  4045 -10502  1529  0
-         745300 GRANADA PROFILER                 CO US  3777 -10217  1155  0
 KGJT     724760 GRAND JUNCTION                   CO US  3911 -10852  1475  0
 KJNC     999999 GRAND JUNCTION                   CO US  3907 -10880  2367  0
 KGJX     999999 GRAND JUNC/MESA                  CO US  3907 -10822  3045  0
@@ -610,7 +598,6 @@ KEEO     999999 MEEKER                           CO US  4004 -10788  1930  0
 KMTJ     999999 MONTROSE                         CO US  3850 -10790  1750  0
 KAIB     999999 NUCLA/HOPKINS F                  CO US  3822 -10857  1811  0
 KPEF     999999 PETERSON AFB                     CO US  3878 -10472  1881  0
-         745330 PLATTEVILLE PROF                 CO US  4017 -10470  1524  0
 KPUX     999999 PUEBLO CTY 88D                   CO US  3847 -10418  1600  0
 KPUB     724640 PUEBLO                           CO US  3828 -10450  1420  0
 KRIL     999999 RIFLE                            CO US  3953 -10773  1678  0
@@ -791,21 +778,10 @@ KNSE     999999 WHITING FLD NAS                  FL US  3073  -8702    61  0
 KX60     999999 WILLISTON                        FL US  2935  -8247    23  0
 KGIF     999999 WINTER HAVEN                     FL US  2807  -8175    43  0
 KZPH     999999 ZEPHYRHILLS                      FL US  2823  -8215    26  0
-         994310 ALLIGATOR REEF                   FL US  2485  -8037     1  0
 KAQQ     999999 APALACHICOLA                     FL US  2973  -8503     5  0
 K90J     999999 ASTOR                            FL US  2912  -8156    33  0
 KAGR     747960 AVON PARK                        FL US  2765  -8133    20  0
-         722240 CAPE SAN BLAS                    FL US  2968  -8535     1  0
-         994360 CAPE SAN BLAS                    FL US  2967  -8562     2  0
-         994170 DEERFIELD BEACH                  FL US  2632  -8092     2  0
-         999999 EGLIN AFB                        FL US  3057  -8632    48  0
 KX40     999999 INVERNESS                        FL US  2880  -8232    15  0
-         994050 LAKE WORTH                       FL US  2662  -8097     5  0
-         994430 MOLASSES REEF                    FL US  2502  -8062     1  0
-         994390 SETTLEMENT POIN                  FL US  2667  -7900     2  0
-         994450 SOMBRERO KEY                     FL US  2462  -8187     1  0
-         994150 ST JOHNS LIGHT                   FL US  3037  -8159     5  0
-         994220 VENICE PIER                      FL US  2707  -8255     4  0
 KQHY     999999 HURLBERT                         FL US  3040  -8665     8  0
 KQBL     999999 HURLBERT                         FL US  3040  -8665     6  0
 KABY     722160 ALBANY                           GA US  3153  -8420    58  0
@@ -896,7 +872,6 @@ KAYS     722130 WAYCROSS/WARE CO                 GA US  3125  -8240    46  0
 KWDR     999999 WINDER/BARROW                    GA US  3397  -8367   287  0
 K11J     999999 BLAKELY EARLY C                  GA US  3140  -8490    65  0
 K47A     999999 CANTON/CHEROKEE                  GA US  3432  -8442   372  0
-         994380 SAVANNAH LIGHT                   GA US  3195  -8031     1  0
 PHBK     911620 BARKING SANDS/KA                 HI US  2203 -15978     8  0
 PHSF     999999 BRADSHAW AAF/HAW                 HI US  1977 -15555  1887  0
 PHHN     911990 HANA                             HI US  2080 -15602    24  0
@@ -925,7 +900,6 @@ PHKI     999999 NUMILA/S KAUAI                   HI US  2190 -15955    55  0
 PHUP     999999 UPOLU                            HI US  2027 -15587    30  0
 PHNC     999999 PEARL HARBOR                     HI US  2135 -15793     1  0
 PHHI     911700 WHEELER AFB/OAHU                 HI US  2148 -15805   255  0
-         911550 FR FRIGATE SHOAL                 HI US  2387 -16628     2  0
 PHNA     999999 BARBERS PT NAS                   HI US  2132 -15807    15  0
 PMDY     910660 MIDWAY ISLAND NA                 HI US  2822 -17737     4  0
 KAXA     999999 ALGONA                           IA US  4307  -9427   372  0
@@ -984,7 +958,6 @@ KRDK     999999 RED OAK                          IA US  4102  -9527   318  0
 KSHL     999999 SHELDON                          IA US  4322  -9582   432  0
 KSDA     999999 SHENANDOAH MUNI                  IA US  4075  -9542   296  0
 KSUX     725570 SIOUX CITY                       IA US  4238  -9638   338  0
-         744490 SLATER PROFILER                  IA US  4188  -9368   315  0
 KSPW     726500 SPENCER                          IA US  4317  -9522   403  0
 KSLB     999999 STORM LAKE                       IA US  4260  -9522   454  0
 KVTI     999999 VINTON                           IA US  4222  -9202   255  0
@@ -1345,8 +1318,6 @@ K8K2     999999 HARPER                           KS US  3728  -9805   445  0
 KHVL     745410 HAVILAND PROFILE                 KS US  3765  -9910   648  0
 KHYS     999999 HAYS MUNI                        KS US  3885  -9927   609  0
 KHLC     999999 HILL CITY                        KS US  3936  -9983   669  0
-         745460 HILLSBORO PROFIL                 KS US  3828  -9728   477  0
-         745470 HILLSBORO                        KS US  3861  -9730   477  0
 KHUT     999999 HUTCHINSON                       KS US  3807  -9787   467  0
 KIDP     999999 INDEPENDENCE                     KS US  3717  -9578   251  0
 KK88     999999 IOLA                             KS US  3787  -9538   309  0
@@ -1359,7 +1330,6 @@ KMHK     999999 MANHATTAN                        KS US  3913  -9668   317  0
 KMYZ     999999 MARYSVILLE                       KS US  3985  -9663   391  0
 KIAB     999999 MCCONNELL AFB                    KS US  3761  -9727   418  0
 KP28     724520 MEDICINE LODGE                   KS US  3728  -9855   469  0
-         745420 NEODESHA PROFILE                 KS US  3736  -9562   255  0
 KAL8     999999 NEW ALMELO                       KS US  3960 -10012   734  0
 KEWK     999999 NEWTON                           KS US  3803  -9727   467  0
 KIXD     999999 OLATHE/INDUSTRIA                 KS US  3882  -9488   342  0
@@ -1378,7 +1348,6 @@ KICT     724500 WICHITA                          KS US  3765  -9743   407  0
 KAAO     999999 WICHITA/JABARA                   KS US  3775  -9722   434  0
 KWLD     999999 WINFIELD/ARKANSA                 KS US  3717  -9703   350  0
 K1K5     999999 ELKHART                          KS US  3700 -10188  1102  0
-         745450 SMOKEY HILL GUN                  KS US  3865  -9780   422  0
 K3KM     999999 WICHITA/JABARA                   KS US  3775  -9722   433  0
 KOIN     999999 OBERLIN                          KS US  3983 -10053   824  0
 K3K3     999999 SYRACUSE                         KS US  3800 -10175  1013  0
@@ -1522,13 +1491,11 @@ KQT8     999999 PHI OIL PLATF                    LA US  2753  -9243     1  0
 KQT9     999999 PHI OIL PLATF                    LA US  2778  -9063     1  0
 K4CO     999999 PHI OIL PLATF                    LA US  2978  -9318     1  0
 K4C0     999999 PHI OIL PLATF                    LA US  2978  -9318     1  0
-         747530 WINNFIELD PROFIL                 LA US  3188  -9277    93  0
 K0R3     999999 ABBEVILLE CC MEM                 LA US  2998  -9208     5  0
 K01R     747550 ALEXANDRIA/AFB                   LA US  3113  -9257    67  0
 K2F8     999999 BASTROP MOREHOUS                 LA US  3275  -9188    51  0
 K41I     999999 EUGENE IS. 266C                  LA US  2847  -9178    31  0
 KL49     999999 GALLIANO                         LA US  2945  -9027     1  0
-         994470 GARDEN BANKS 23                  LA US  2737  -9320     1  0
 KGHB     999999 GARDEN BANKS172                  LA US  2783  -9198    30  0
 KL38     999999 GONZALES                         LA US  3017  -9093     4  0
 KL29     999999 GRAND CHEINER                    LA US  2980  -9283     1  0
@@ -1537,7 +1504,6 @@ K01T     999999 HIGH ISLAND 511                  LA US  2813  -9440    30  0
 KH39     999999 HIGH IS. A572C                   LA US  2795  -9398    30  0
 KL40     999999 HIGH IS. A489B                   LA US  2820  -9420    30  0
 K7R2     999999 LEEVILLE                         LA US  2922  -9023     1  0
-         994440 MAIN PASS 133C                   LA US  2940  -8840     1  0
 KF24     999999 MINDEN                           LA US  3265  -9330    85  0
 K1G7     999999 MISS. CANYON                     LA US  2878  -8905    18  0
 KL42     999999 OAKDALE ALLEN P                  LA US  3075  -9268    33  0
@@ -1546,7 +1512,6 @@ KS65     999999 SHIP SHOAL 198G                  LA US  2850  -9120     2  0
 K6R0     999999 SLIDELL                          LA US  3035  -8982     8  0
 KSIL     999999 SLIDELL                          LA US  3025  -8977     3  0
 KL75     999999 SOUTHLAND FIELD                  LA US  3013  -9337     4  0
-         994010 SOUTHWEST PASS                   LA US  2890  -8957     1  0
 KH18     999999 S. PASS BLK 62A                  LA US  2898  -8913     1  0
 K3V8     999999 VENICE/HELIPORT                  LA US  2912  -8920    80  0
 K7W2     999999 VERMILLION                       LA US  2858  -9247     1  0
@@ -1577,16 +1542,12 @@ KVQT     999999 VERMILION 331                    LA US  2827  -9227    25  0
 KIKT     999999 MISS CANYON 474                  LA US  2852  -8828    25  0
 KBED     744900 BEDFORD                          MA US  4247  -7130    50  0
 KBVY     999999 BEVERLY                          MA US  4258  -7092    28  0
-         749920 BLUE HILL OBS                    MA US  4122  -7112   192  0
-         749950 BLUE HILL OBS                    MA US  4122  -7112   192  0
 KBOS     725090 BOSTON                           MA US  4237  -7102     6  0
 KBOX     999999 BOSTON/TAUNTON                   MA US  4195  -7113    36  0
 KTAR     999999 BOSTON/RFC                       MA US  4195  -7113    36  0
 KCHH     744940 CHATHAM                          MA US  4167  -6997    16  0
-         744930 CHATHAM                          MA US  4167  -6997    16  0
 KCQX     999999 CHATHAM                          MA US  4168  -7000    19  0
 KCEF     744910 CHICOPEE/WESTOVE                 MA US  4220  -7252    75  0
-         724910 CHICOPEE/WESTOVE                 MA US  4220  -7252    75  0
 KMQE     999999 EAST MILTON                      MA US  4222  -7112   199  0
 KFMH     999999 FALMOUTH/OTIS AB                 MA US  4163  -7052    40  0
 KFIT     999999 FITCHBURG                        MA US  4255  -7175   103  0
@@ -1609,7 +1570,6 @@ KORH     999999 WORCESTER                        MA US  4227  -7187   304  0
 K9B4     999999 ASHBURNHAM                       MA US  4265  -7187   363  0
 KAYE     999999 AYER                             MA US  4257  -7159    82  0
 K8B5     999999 BARRE FALLS                      MA US  4242  -7206   178  0
-         994140 BUZZARDS BAY (L                  MA US  4140  -7197     1  0
 KGDM     999999 GARDNER                          MA US  4257  -7197   290  0
 KGBR     999999 G BARRINGTON                     MA US  4220  -7334   199  0
 K7B2     999999 KNIGHTVILLE                      MA US  4227  -7287   192  0
@@ -1651,7 +1611,6 @@ K2W6     999999 ST MARYS (DUKE)                  MD US  3832  -7655    44  0
 KDVD     999999 CAMP DAVID                       MD US  3965  -7747   152  0
 K43M     999999 FORT RITCHIE/SIT                 MD US  3972  -7742   275  0
 KN80     999999 OCEAN CITY                       MD US  3832  -7512     4  0
-         994400 THOMAS POINT                     MD US  3890  -7656     1  0
 KNUI     999999 WEBSTER NAVAL                    MD US  3815  -7643     7  0
 KEMI     999999 WESTMINSTER                      MD US  3950  -7698   152  0
 KLEW     999999 AUBURN/LEWISTON                  ME US  4403  -7027    88  0
@@ -1660,7 +1619,6 @@ KBGR     726070 BANGOR                           ME US  4480  -6881    57  0
 KBHB     999999 BAR HARBOR                       ME US  4445  -6837    26  0
 KNHZ     743920 BRUNSWICK NAS                    ME US  4387  -6992    23  0
 KCAR     727120 CARIBOU                          ME US  4687  -6802   191  0
-         727110 CARIBOU                          ME US  4687  -6802   191  0
 KB21     999999 CARRABASSETT                     ME US  4508  -7022   270  0
 K40B     999999 CLAYTON LAKE                     ME US  4662  -6952   314  0
 KEPM     726080 EASTPORT                         ME US  4492  -6702    14  0
@@ -1684,8 +1642,6 @@ KB20     999999 FREYBURG                         ME US  4398  -7095   138  0
 K3B1     999999 GREENVILLE                       ME US  4547  -6955   427  0
 K2B7     999999 HARMONY                          ME US  4493  -6962   107  0
 KLIZ     999999 LORING AFB                       ME US  4695  -6788   227  0
-         994370 MATINICUS ISLE                   ME US  4377  -6815    16  0
-         994060 MOUNT DESERT RO                  ME US  4397  -6887     9  0
 K8B0     999999 RANGELEY                         ME US  4497  -7070   554  0
 KRUM     726180 RUMFORD                          ME US  4453  -7053   207  0
 K9B6     999999 SEWEL RIDGE                      ME US  4300  -6800   150  0
@@ -1790,12 +1746,9 @@ K5D8     999999 MARSHALL                         MI US  4225  -8495   287  0
 K09G     999999 MASON                            MI US  4257  -8442   280  0
 KD92     999999 MONROE                           MI US  4193  -8343   187  0
 K5D3     999999 OWOSSO                           MI US  4300  -8413   224  0
-         994090 PASSAGE ISLAND                   MI US  4822  -8862   195  0
 KECK     999999 PECK                             MI US  4325  -8272   247  0
-         994130 ROCK OF AGES                     MI US  4787  -8967   183  0
 KY62     999999 SAULT STE MARIE                  MI US  4647  -8437   219  0
 K0D1     999999 SOUTH HAVEN                      MI US  4235  -8625   203  0
-         994200 STANNARD ROCK                    MI US  4717  -8777   183  0
 K7D2     999999 TROY/OAKLAND                     MI US  4255  -8318   222  0
 KAIT     999999 AITKIN NDB                       MN US  4653  -9367   367  0
 KAEL     999999 ALBERT LEA                       MN US  4368  -9337   383  0
@@ -1906,7 +1859,6 @@ KILL     999999 WILLMAR/RICE                     MN US  4512  -9507   344  0
 KBDH     999999 WILLMAR MUNI                     MN US  4512  -9513   247  0
 KMWM     999999 WINDOM MUNI AIRP                 MN US  4390  -9510   430  0
 KONA     999999 WINONA MUNI                      MN US  4407  -9170   200  0
-         743410 WOOD LAKE PROFIL                 MN US  4467  -9543   319  0
 KOTG     999999 WORTHINGTON                      MN US  4363  -9557   480  0
 K85D     999999 BIGFORK                          MN US  4777  -9365   411  0
 K8Y2     999999 BUFFALO MUNI                     MN US  4517  -9385   295  0
@@ -1949,7 +1901,6 @@ QMSM     999999 LUVERNE                          MN US  4367  -9622   443  0
 QRCM     999999 LAMBERTON                        MN US  4423  -9527   349  0
 QTMM     999999 WEST CONCORD                     MN US  4413  -9290   387  0
 QWLM     999999 ROCHESTER                        MN US  4398  -9243   312  0
-         746620 BLOOMFIELD PROFI                 MO US  3686  -8997   130  0
 KVER     999999 BOONVILLE                        MO US  3895  -9268   218  0
 KBBG     999999 BRANSON                          MO US  3653  -9320   397  0
 KFWB     999999 BRANSON WEST                     MO US  3670  -9340   406  0
@@ -1960,7 +1911,6 @@ KCGI     999999 CAPE GIRARDEAU                   MO US  3722  -8958   102  0
 KCDJ     999999 CHILLICOTHE                      MO US  3982  -9358   234  0
 KGLY     999999 CLINTON                          MO US  3835  -9368   251  0
 KCOU     724450 COLUMBIA                         MO US  3882  -9222   271  0
-         745500 CONWAY PROFILER                  MO US  3752  -9270   390  0
 KFAM     999999 FARMINGTON                       MO US  3777  -9042   288  0
 KTBN     999999 FORT LEONARD WOO                 MO US  3772  -9212   353  0
 KGVW     999999 GRANDVIEW                        MO US  3883  -9457   337  0
@@ -1978,7 +1928,6 @@ KKRF     999999 KANSAS CITY/RFC                  MO US  3882  -9427   312  0
 KZKC     999999 KANSAS CIT/ARTCC                 MO US  3885  -9473   231  0
 KTKX     999999 KENNETT                          MO US  3623  -9003    80  0
 KIRK     999999 KIRKSVILLE                       MO US  4010  -9255   293  0
-         745510 LATHROP PROFILER                 MO US  3957  -9417   297  0
 KLXT     999999 LEES SUMMIT MUNI                 MO US  3897  -9437   306  0
 KMAW     999999 MALDEN                           MO US  3660  -9000    90  0
 KMHL     999999 MARSHALL                         MO US  3910  -9320   237  0
@@ -2041,7 +1990,6 @@ KNMM     999999 MERIDIAN NAS                     MS US  3253  -8857    97  0
 KMEI     722340 MERIDIAN/KEY FLD                 MS US  3233  -8875    89  0
 KHEZ     999999 NATCHEZ/HARDY                    MS US  3162  -9130    83  0
 KOLV     999999 OLIVE BRANCH                     MS US  3497  -8978   122  0
-         747690 OKOLONA PROFILER                 MS US  3407  -8885   125  0
 KUOX     999999 OXFORD                           MS US  3438  -8953   137  0
 KPQL     999999 PASCAGOULA                       MS US  3047  -8853     6  0
 KPGL     999999 PASCAGOULA                       MS US  3040  -8848     3  0
@@ -2122,7 +2070,6 @@ KNJM     999999 BOGUE/SWANSBORO                  NC US  3467  -7702     7  0
 KTNB     999999 BOONE WATAUGA CT                 NC US  3620  -8165   911  0
 KBUY     999999 BURLINGTON                       NC US  3604  -7947   180  0
 KHAT     723020 CAPE HATTERAS                    NC US  3527  -7553     3  0
-         723040 CAPE HATTERAS                    NC US  3527  -7553     3  0
 KIGX     999999 CHAPEL HILL                      NC US  3593  -7906   155  0
 KCLT     723140 CHARLOTTE                        NC US  3522  -8095   220  0
 KNKT     723090 CHERRY POINT                     NC US  3490  -7688     9  0
@@ -2193,13 +2140,9 @@ KILM     999999 WILMINGTON                       NC US  3427  -7790     9  0
 KINT     723190 WINSTON SALEM                    NC US  3613  -8022   291  0
 K6A3     999999 ANDREWS                          NC US  3518  -8385   518  0
 KW44     999999 ASHEBORO                         NC US  3565  -8009   205  0
-         999999 BOGUE FLD (KQAJ)                 NC US  3467  -7703     7  0
-         994160 CAPE LOOKOUT                     NC US  3460  -7647     5  0
 K9W7     999999 CURRITUCK                        NC US  3640  -7602     5  0
 K44W     746960 DIAMOND SHORES                   NC US  3515  -7570     5  0
-         994030 DIAMOND SHOALS                   NC US  3515  -7570     1  0
 K37W     999999 ERWIN/HARNETT CO                 NC US  3536  -7872    60  0
-         994040 FRYING PAN SHOA                  NC US  3347  -7742     1  0
 KHSS     999999 HOT SPRINGS                      NC US  3590  -8282   451  0
 K78N     999999 REIDSVILLE                       NC US  3643  -7984   211  0
 K45J     999999 ROCKINGHAM                       NC US  3488  -7977   109  0
@@ -2255,7 +2198,6 @@ KBTA     999999 BLAIR MUNI                       NE US  4142  -9612   396  0
 KBBW     999999 BROKEN BOW MUNI                  NE US  4143  -9963   776  0
 KCDR     999999 CHADRON                          NE US  4283 -10310  1010  0
 KOLU     999999 COLUMBUS MUNI                    NE US  4145  -9732   440  0
-         744400 FAIRBURY PROFILE                 NE US  4007  -9732   433  0
 KFNB     999999 FALLS CITY/BRENN                 NE US  4007  -9558   300  0
 KFET     999999 FREMONT MUNI ARP                 NE US  4145  -9652   367  0
 KGRI     725520 GRAND ISLAND                     NE US  4097  -9832   561  0
@@ -2269,10 +2211,7 @@ KIBM     999999 KIMBALL MUNI                     NE US  4118 -10368  1501  0
 KLXN     999999 LEXINGTON                        NE US  4078  -9977   734  0
 KLNK     725510 LINCOLN                          NE US  4085  -9677   364  0
 KMCK     999999 MCCOOK                           NE US  4020 -10058   782  0
-         744330 MCCOOK PROFILER                  NE US  4007 -10065   800  0
-         744370 MERRIMAN PROFILE                 NE US  4288 -10168   991  0
 KAFK     999999 NEBRASKA CITY                    NE US  4060  -9585   354  0
-         744450 NELIGH PROFILER                  NE US  4220  -9778   524  0
 KOFK     725560 NORFOLK                          NE US  4198  -9743   470  0
 KOVN     725530 NORTH OMAHA                      NE US  4137  -9602   406  0
 KLBF     725620 NORTH PLATTE                     NE US  4112 -10067   847  0
@@ -2303,7 +2242,6 @@ KK46     999999 BLAIR MUNI                       NE US  4142  -9612   396  0
 KBUB     725550 BURWELL                          NE US  4178  -9915   664  0
 KCZD     999999 COZAD                            NE US  4086 -10000   800  0
 KMHN     999999 MULLEN                           NE US  4205 -10107   994  0
-         725630 SIDNEY                           NE US  4110 -10298  1307  0
 KCHM     999999 CHAMPION                         NE US  4038 -10172  1029  0
 KBML     726160 BERLIN                           NH US  4458  -7118   345  0
 KCON     726050 CONCORD                          NH US  4320  -7150   103  0
@@ -2320,7 +2258,6 @@ KPSM     999999 PORTSMOUTH/PEASE                 NH US  4307  -7081    31  0
 KDAW     999999 ROCHESTER                        NH US  4328  -7092   100  0
 KHIE     999999 WHITEFIELD                       NH US  4437  -7155   318  0
 K8B2     999999 DIAMOND LAKE                     NH US  4495  -7131   678  0
-         994270 ISLE OF SHOALS                   NH US  4297  -7037    13  0
 KNGR     999999 NORTH GROTON                     NH US  4377  -7187   390  0
 K6B1     999999 ROCHESTER                        NH US  4328  -7092   100  0
 KTMW     999999 TAMWORTH                         NH US  4390  -7130   241  0
@@ -2374,7 +2311,6 @@ KIKR     999999 KIRTLAND AFB-ABQ                 NM US  3504 -10660  1613  0
 KZAB     999999 ALBUQUERQU/ARTCC                 NM US  3517 -10657  1621  0
 KAXX     999999 ANGEL FIRE                       NM US  3642 -10528  2548  0
 KATS     999999 ARTESIA                          NM US  3285 -10447  1081  0
-         746300 AZTEC PROFILER                   NM US  3682 -10790  1902  0
 KE80     999999 BELEN                            NM US  3465 -10683  1582  0
 KCVS     999999 CANNON AFB/CLOVI                 NM US  3436 -10332  1309  0
 KFDX     999999 CANNON AFB/88D                   NM US  3463 -10362  1417  0
@@ -2413,10 +2349,8 @@ KONM     723620 SOCORRO                          NM US  3402 -10690  1410  0
 KSKX     999999 TAOS MUNI APT                    NM US  3645 -10567  2161  0
 K4SL     999999 TORREON/CUBA                     NM US  3578 -10717  2106  0
 KTCS     722710 TRUTH OR CONSEQ.                 NM US  3322 -10727  1469  0
-         747310 TUCUMCARI PROFIL                 NM US  3507 -10358  1241  0
 KTCC     999999 TUCUMCARI                        NM US  3518 -10360  1235  0
 KHDX     999999 W SANDS/HOLLOMAN                 NM US  3308 -10612  1287  0
-         746290 WHITE SANDS PROF                 NM US  3238 -10633  1224  0
 K2C2     747340 WHITE SANDS TEST                 NM US  3236 -10647  1244  0
 KP70     999999 CLINES CORNERS                   NM US  3492 -10557  2109  0
 KE28     747330 WHITE SANDS                      NM US  3293 -10642  1192  0
@@ -2525,7 +2459,6 @@ KN23     999999 SIDNEY                           NY US  4230  -7542   313  0
 K6B9     999999 SKANEATELES                      NY US  4292  -7645   316  0
 KXNT     999999 SPRINGVILLE                      NY US  4252  -7865   433  0
 KSYR     725190 SYRACUSE                         NY US  4312  -7609   127  0
-         743790 SYRACUSE                         NY US  4312  -7608   122  0
 KUCA     999999 UTICA                            NY US  4315  -7538   228  0
 KART     999999 WATERTOWN                        NY US  4398  -7603   100  0
 KELZ     999999 WELLSVILLE                       NY US  4210  -7798   646  0
@@ -2533,12 +2466,10 @@ KFOK     999999 WESTHAMPTON BEAC                 NY US  4085  -7262    33  0
 KHPN     999999 WHITE PLAINS                     NY US  4107  -7370   121  0
 KSDC     999999 WILLIAMSON/SODUS                 NY US  4323  -7712   129  0
 KN28     744990 AMBROSE                          NY US  4045  -7318    26  0
-         994100 AMBROSE (LGT-SH                  NY US  4047  -7317     1  0
 K1B8     999999 BOONVILLE                        NY US  4345  -7534   482  0
 KCOL     999999 COLDEN                           NY US  4267  -7868   312  0
 KCOO     999999 COOPERSTOWN                      NY US  4270  -7492   378  0
 KELB     999999 ELLENBURG DEPOT                  NY US  4490  -7380   262  0
-         994320 GALLOO ISLAND                    NY US  4387  -7656    76  0
 KMAL     999999 MALONE                           NY US  4485  -7430   268  0
 KOZX     999999 ONEONTA                          NY US  4238  -7515   351  0
 KN00     999999 FULTON/OSWEGO CT                 NY US  4335  -7638   145  0
@@ -2610,7 +2541,6 @@ KI15     999999 LANCASTER                        OH US  3975  -8265   265  0
 K22G     999999 LORAIN/ELYRIA                    OH US  4135  -8218   241  0
 K2I8     999999 NEWARK                           OH US  4002  -8247   268  0
 K29G     999999 RAVENA/PORTAGE                   OH US  4122  -8125   365  0
-         994340 SOUTH BASS ISLA                  OH US  4162  -8217   177  0
 KADH     999999 ADA                              OK US  3479  -9667   308  0
 KADM     999999 ARDMORE                          OK US  3428  -9702   232  0
 K1F0     999999 ARDMORE/EXEC                     OK US  3415  -9712   257  0
@@ -2640,15 +2570,11 @@ KMMB     999999 MITBEE/GAGE                      OK US  3629  -9977   668  0
 KGMJ     999999 GROVE                            OK US  3660  -9473   254  0
 KGOK     999999 GUTHRIE                          OK US  3585  -9740   324  0
 KGUY     999999 GUYMON                           OK US  3668 -10150   948  0
-         746480 HASKELL PROFILER                 OK US  3577  -9577   212  0
 KHBR     999999 HOBART                           OK US  3497  -9905   473  0
 K4O4     999999 IDABEL                           OK US  3392  -9487   144  0
 KINX     999999 INOLA/TULSA/88D                  OK US  3618  -9557   204  0
-         746470 LAMONT PROFILER                  OK US  3668  -9747   306  0
-         746460 LAMONT ARM KLMN                  OK US  3661  -9748   318  0
 KLAW     999999 LAWTON                           OK US  3454  -9842   337  0
 KHMY     999999 LEXINGTON                        OK US  3503  -9723   331  0
-         746500 MORRIS                           OK US  3568  -9587   217  0
 KMLC     999999 MCALESTER                        OK US  3488  -9578   232  0
 KMKO     999999 MUSKOGEE                         OK US  3565  -9537   185  0
 KOUN     723570 NORMAN/WESTHEIME                 OK US  3525  -9747   357  0
@@ -2660,8 +2586,6 @@ KOKM     999999 OKMULGEE                         OK US  3567  -9595   220  0
 KPVJ     999999 PAULS VALLEY                     OK US  3472  -9722   295  0
 KPNC     999999 PONCA CITY                       OK US  3672  -9710   308  0
 KRKR     999999 POTEAU (R KERR)                  OK US  3502  -9462   138  0
-         746490 PURCELL PROFILER                 OK US  3497  -9750   331  0
-         746510 PURCELL                          OK US  3497  -9770   343  0
 KJSV     999999 SALLISAW                         OK US  3543  -9480   161  0
 KOWP     999999 SAND SPRINGS                     OK US  3618  -9615   272  0
 KSRE     999999 SEMINOLE                         OK US  3527  -9668   312  0
@@ -2676,8 +2600,6 @@ KTSA     999999 TULSA/WFO                        OK US  3620  -9590   205  0
 KTUA     999999 TULSA/RFC                        OK US  3615  -9585   205  0
 KTLX     999999 TWIN LAKES/88D                   OK US  3533  -9728   370  0
 KVNX     999999 VANCE/KEGELMAN                   OK US  3672  -9813   369  0
-         746400 VICI PROFILER                    OK US  3607  -9920   648  0
-         746410 VICI                             OK US  3607  -9933   622  0
 KJWG     999999 WATONGA                          OK US  3586  -9842   472  0
 KOJA     999999 WEATHERFORD                      OK US  3554  -9867   490  0
 KWWR     999999 WOODWARD                         OK US  3645  -9952   667  0
@@ -2736,11 +2658,9 @@ KTTD     999999 TROUTDALE                        OR US  4555 -12242    14  0
 KNMW     999999 ASTORIA CG                       OR US  4615 -12388     3  0
 K3S2     999999 AURORA STATE                     OR US  4525 -12277    60  0
 K4BK     999999 BROOKINGS                        OR US  4203 -12427    24  0
-         994240 CAPE ARAGO (LS)                  OR US  4332 -12462    18  0
 KS22     999999 HERMISTON                        OR US  4583 -11927   195  0
 K5J0     999999 JOHN DAY STATE                   OR US  4438 -11897  1127  0
 K4LW     725890 LAKEVIEW                         OR US  4222 -12035  1455  0
-         994280 NEWPORT STATE B                  OR US  4462 -12492     9  0
 KPFC     999999 PACIFIC CITY                     OR US  4520 -12395     5  0
 K1S4     999999 SCAPPOOSE                        OR US  4577 -12287    14  0
 KS47     999999 TILLAMOOK                        OR US  4542 -12382    11  0
@@ -2862,7 +2782,6 @@ KSMS     999999 SUMTER                           SC US  3400  -8037    56  0
 KRBW     999999 WALTERBORO                       SC US  3292  -8063    31  0
 KFDW     999999 WINNSBORO                        SC US  3432  -8112   176  0
 KIGC     999999 CHARLESTON AFB                   SC US  3290  -8003    14  0
-         994230 FOLLY ISLAND                     SC US  3267  -7912     3  0
 KXAA     999999 GRNVL/DNLDSN                     SC US  3475  -8238   320  0
 K49J     999999 HILTON HEAD                      SC US  3222  -8070     6  0
 K29J     999999 ROCK HILL                        SC US  3497  -8105   202  0
@@ -2942,7 +2861,6 @@ KVIV     999999 VIVIAN                           SD US  4423 -10037   588  0
 K0V1     999999 CUSTER                           SD US  4373 -10362  1725  0
 KY26     999999 MOBRIDGE                         SD US  4553 -10043   508  0
 KP05     999999 PHILIP                           SD US  4407 -10165   683  0
-         726520 PICKSTOWN                        SD US  4307  -9852   453  0
 KREJ     726610 REDIG                            SD US  4527 -10353   925  0
 QABS     999999 ABERDEEN                         SD US  4548  -9847   395  0
 QALS     999999 ALCESTER                         SD US  4302  -9663   342  0
@@ -3161,11 +3079,9 @@ KWNJ     999999 JOHNSON SPACE C                  TX US  2963  -9528    36  0
 KUTS     999999 HUNTSVILLE                       TX US  3075  -9558   104  0
 KJSO     999999 JACKSONVILLE                     TX US  3187  -9522   206  0
 KJAS     999999 JASPER                           TX US  3088  -9403    65  0
-         747350 JAYTON PROFILER                  TX US  3300 -10097   707  0
 KJCT     747400 JUNCTION                         TX US  3050  -9977   522  0
 KSKF     999999 KELLY AFB                        TX US  2937  -9857   210  0
 KGRK     999999 GRAY/FT HOOD                     TX US  3107  -9783   309  0
-         999999 GRANGER KGRK 88D                 TX US  3072  -9740   164  0
 KERV     999999 KERRVILLE                        TX US  2998  -9908   510  0
 KCWC     999999 KICKAPOO                         TX US  3385  -9848   305  0
 KILE     999999 KILLEEN MUNI                     TX US  3107  -9767   258  0
@@ -3177,7 +3093,6 @@ KLNC     999999 LANCASTER                        TX US  3258  -9672   153  0
 KLRD     722520 LAREDO                           TX US  2755  -9947   155  0
 KDLF     999999 LAUGHLIN AFB                     TX US  2937 -10077   330  0
 KDFX     999999 LAUGHLIN AFB/88D                 TX US  2927 -10028   345  0
-         722460 LEDBETTER PROFIL                 TX US  3008  -9678   122  0
 KAQO     999999 LLANO                            TX US  3078  -9867   336  0
 KGGG     722470 LONGVIEW                         TX US  3238  -9472   107  0
 KLBB     722670 LUBBOCK                          TX US  3367 -10182   993  0
@@ -3205,7 +3120,6 @@ KNOG     999999 ORANGE GROVE                     TX US  2790  -9805    78  0
 KORG     999999 ORANGE                           TX US  3007  -9380     4  0
 KOZA     999999 OZONA                            TX US  3073 -10120   726  0
 KPSX     999999 PALACIOS                         TX US  2872  -9625     5  0
-         747500 PALESTINE PROFIL                 TX US  3177  -9570   119  0
 KPSN     999999 PALESTINE MUNI                   TX US  3178  -9570   129  0
 KPPA     999999 PAMPA                            TX US  3561 -10100   989  0
 KBPC     999999 PAMPA M VISTA R                  TX US  3588 -10103   845  0
@@ -3301,7 +3215,6 @@ K3R5     999999 NEW BRAUNFELS                    TX US  2972  -9805   195  0
 KE02     999999 ODESSA                           TX US  3192 -10240   902  0
 K2R8     999999 PORT ARANSAS                     TX US  2782  -9708     2  0
 KT31     999999 PORT ISABEL                      TX US  2617  -9733     5  0
-         994110 PORT ARANSAS                     TX US  2782  -9795     5  0
 KT97     999999 PORT LAVACA                      TX US  2865  -9668     9  0
 KT05     999999 PORT MANSFIELD                   TX US  2657  -9743     3  0
 KT77     999999 PRESIDIO/LELY IN                 TX US  2963 -10435   896  0
@@ -3408,7 +3321,6 @@ KU24     724790 DELTA                            UT US  3933 -11258  1414  0
 KDTA     999999 DELTA                            UT US  3929 -11250  1402  0
 KDPG     740030 DUGWAY PRVG GROU                 UT US  4020 -11292  1326  0
 KU16     724300 EAGLE RANGE                      UT US  4105 -11307  1292  0
-         694300 EAGLE RANGE                      UT US  4105 -11307  1292  0
 KMTX     999999 ELDER COUNTY/SLC                 UT US  4127 -11245  1969  0
 KU28     724770 GREEN RIVER RANG                 UT US  3900 -11017  1241  0
 K4HV     724730 HANKSVILLE                       UT US  3836 -11072  1314  0
@@ -3429,7 +3341,6 @@ KSGU     999999 SAINT GEORGE                     UT US  3707 -11352   896  0
 KDXZ     999999 SAINT GEORGE                     UT US  3708 -11360   896  0
 KU42     999999 SALT LAKE MUNI                   UT US  4061 -11198  1402  0
 KZLC     999999 SALT LAKE/ARTCC                  UT US  4077 -11195  1287  0
-         999999 SLC RFC=KSLR                     UT US  4077 -11195  1287  0
 KT62     999999 TOOELE                           UT US  4032 -11228  1628  0
 KTVY     999999 TOOELE                           UT US  4062 -11235  1316  0
 KVEL     999999 VERNAL                           UT US  4045 -10952  1604  0
@@ -3587,19 +3498,15 @@ KYKM     727810 YAKIMA                           WA US  4657 -12053   324  0
 K75S     999999 BURLINGTON/MT V                  WA US  4847 -12242    43  0
 K63S     999999 COLVILLE                         WA US  4853 -11787   571  0
 K07S     999999 DEER PARK                        WA US  4797 -11743   668  0
-         994070 DESTRUCTION ISL                  WA US  4767 -12452    21  0
 K76S     999999 OAK HARBOR AIRPA                 WA US  4825 -12267    59  0
 KNOW     742010 PORT ANGELES CG                  WA US  4813 -12342     4  0
-         994180 SMITH ISLAND                     WA US  4832 -12217    15  0
 K60S     999999 PEARSON/VANCOUVR                 WA US  4562 -12265     8  0
 K1YT     999999 YAGABOND AAF                     WA US  4667 -12045   438  0
-         994350 WEST POINT (LS)                  WA US  4767 -12257     3  0
 KAIG     999999 ANTIGO/LANGLADE                  WI US  4515  -8912   464  0
 KATW     999999 APPLETON/OUTAGAM                 WI US  4427  -8852   280  0
 KGRB     726450 ASHWAUBENON                      WI US  4448  -8813   208  0
 KASX     999999 ASHLAND                          WI US  4655  -9092   251  0
 KBCK     999999 BLACK RIVER FALL                 WI US  4425  -9085   255  0
-         743570 BLUE RIVER PROFI                 WI US  4322  -9052   226  0
 KOVS     999999 BOSCOBEL                         WI US  4315  -9068   202  0
 KBUU     999999 BURLINGTON                       WI US  4268  -8830   237  0
 KY23     999999 CHETEK                           WI US  4530  -9163   322  0
@@ -3668,7 +3575,6 @@ KETB     999999 WEST BEND                        WI US  4342  -8813   270  0
 KISW     999999 WISCONSIN RAPIDS                 WI US  4437  -8983   307  0
 KC85     999999 BARABOO                          WI US  4353  -8977   299  0
 KC52     999999 BURLINGTON                       WI US  4268  -8830   237  0
-         994190 DEVILS ISLAND                    WI US  4707  -9027   192  0
 KW11     999999 MENOMONIE MUNI                   WI US  4490  -9187   273  0
 KEEW     999999 NEENAH                           WI US  4422  -8855   275  0
 KPKF     727410 PARK FALLS                       WI US  4593  -9045   469  0
@@ -3724,7 +3630,6 @@ KLND     725760 LANDER                           WY US  4282 -10873  1694  0
 KLAR     999999 LARAMIE                          WY US  4132 -10567  2216  0
 KAJL     999999 LAVA MOUNTAIN                    WY US  4367 -11003  3161  0
 KLSK     999999 LUSK                             WY US  4275 -10440  1513  0
-         744310 MEDICINE BOW PRO                 WY US  4188 -10617  2300  0
 KECS     999999 NEWCASTLE MONDEL                 WY US  4388 -10432  1273  0
 KPNA     999999 PINEDALE R WENZ                  WY US  4280 -10980  2160  0
 K82V     999999 PINE BLUFFS MUNI                 WY US  4115 -10413  1570  0
@@ -3883,7 +3788,6 @@ CPRY     715360 RAYMOND AGDM                     AB CA  4948 -11268   937  0
 CPST     715260 STRATHMORE AGDM                  AB CA  5103 -11328   967  0
 CPSV     715250 SEVEN PERSONS                    AB CA  4992 -11092   766  0
 CPXL     715190 BOW ISLAND AGDM                  AB CA  4987 -11138   799  0
-         711220 BANFF (CWBA-old)                 AB CA  5117 -11557  1383  0
 CYXX     711080 ABBOTSFORD AIRPO                 BC CA  4903 -12238    58  0
 CWCZ     999999 ADDENBROKE ISL (                 BC CA  5160 -12787    21  0
 CWZA     711130 AGASSIZ (AUTO)                   BC CA  4925 -12177    15  0
@@ -4017,15 +3921,12 @@ CWWA     717840 W VANCOUVER AUTO                 BC CA  4935 -12317   178  0
 CWAE     999999 WHISTLER                         BC CA  5013 -12295   658  0
 CWWK     717850 WHITE ROCK AUTOB                 BC CA  4902 -12278    15  0
 CYWL     711040 WILLIAMS LAKE AR                 BC CA  5218 -12207   940  0
-         711100 ALERT BAY (CWAQ)                 BC CA  5057 -12692    59  0
-         999999 INGENIKA PT CWWU                 BC CA  5678 -12490   680  0
 CWRE     999999 ARNES                            MB CA  5080  -9695   221  0
 CYBV     999999 BERENS RIVER APT                 MB CA  5235  -9703   222  0
 CWCF     711580 BERENS RIVER APT                 MB CA  5235  -9703   222  0
 CYBR     711400 BRANDON AIRPORT                  MB CA  4992  -9995   409  0
 CWNK     711470 CARMAN U OF M                    MB CA  4950  -9803   268  0
 CYYQ     719130 CHURCHILL AIRPOR                 MB CA  5875  -9407    29  0
-         718550 DAUPHIN AIRPORT                  MB CA  5110 -10003   305  0
 CYDN     710360 DAUPHIN                          MB CA  5110 -10005   305  0
 CXDW     718400 DEERWOOD RCS                     MB CA  4940  -9832   341  0
 CZUG     715630 DELTA MARSH CS                   MB CA  5018  -9838   248  0
@@ -4062,7 +3963,6 @@ CXWN     715790 WINNIPEG FORKS                   MB CA  4988  -9713   230  0
 CYNE     999999 NORWAY HOUSE ARP                 MB CA  5397  -9782   223  0
 CZBF     715740 BATHURST ARPT(AW                 NB CA  4762  -6575    59  0
 CZCR     717110 CHARLO AIRPORT                   NB CA  4797  -6631    38  0
-         713150 CHARLO                           NB CA  4798  -6633    42  0
 CXNC     999999 CHIPMAN RADAR                    NB CA  4622  -6570     1  0
 CERM     999999 EDMUNSTON                        NB CA  4742  -6831   154  0
 CYFC     717000 FREDERICTON AIRP                 NB CA  4587  -6652    20  0
@@ -4109,7 +4009,6 @@ CYDP     719020 NAIN AIRPORT                     NL CA  5653  -6167     7  0
 CWZB     711970 PORT AUX BASQUES                 NL CA  4757  -5917    40  0
 CXRH     715880 ROCKY HARBOUR                    NL CA  4957  -5788    68  0
 CWZZ     718040 SAGLEK (BAY)                     NL CA  5832  -6257   483  0
-         713350 SAGLEK (BAY)                     NL CA  5833  -6258   501  0
 CWZN     714080 SAGONA ISL (MAPS                 NL CA  4737  -5580    64  0
 CWAX     718190 SAINT ANTHONY                    NL CA  5138  -5608   111  0
 CWDW     715580 SAINT ANTHONY                    NL CA  5138  -5610    29  0
@@ -4241,7 +4140,6 @@ CWJC     719230 ENNADAI LAKE (MA                 NU CA  6113 -10090   357  0
 CWEU     719170 EUREKA                           NU CA  8000  -8592    10  0
 CYEU     999999 EUREKA                           NU CA  8000  -8582    78  0
 CYFB     719090 FROBISHER/IQALUI                 NU CA  6375  -6855    34  0
-         713210 IQALUIT (CYFB)                   NU CA  6375  -6855    34  0
 CYHK     999999 GJOA HAVEN AIRPO                 NU CA  6862  -9583    46  0
 CZHK     713630 GJOA HAVEN                       NU CA  6863  -9585    42  0
 CWGZ     999999 GRISE FIORD AIR                  NU CA  7642  -8290    45  0
@@ -4276,7 +4174,6 @@ CYXN     999999 WHALE COVE AIRPO                 NU CA  6222  -9258    20  0
 CXFB     999999 IQALUIT CLIMATE                  NU CA  6375  -6855    34  0
 CYYW     999999 ARMSTRONG ARPT                   ON CA  5028  -8892   322  0
 CWCH     717470 ATIKOKAN (AUT)                   ON CA  4875  -9162   424  0
-         717480 ATIKOKAN                         ON CA  4875  -9160   393  0
 CYAT     716530 ATTAWAPISKAT                     ON CA  5293  -8243     9  0
 CWRK     999999 BANCROFT AUTOB                   ON CA  4507  -7787   331  0
 CWCU     714360 BARRIE (MARS)                    ON CA  4437  -7977   295  0
@@ -4331,7 +4228,6 @@ CWGL     712820 LAGOON CITY                      ON CA  4452  -7922   221  0
 CWLF     718460 LANSDOWNE HOUSE                  ON CA  5222  -8787   242  0
 CYLF     999999 LANSDOWNE HOUSE                  ON CA  5223  -8788   242  0
 CYLH     999999 LANSDOWNE 71697                  ON CA  5220  -8793   254  0
-         716970 OSHAWA                           ON CA  4392  -7888   140  0
 CWSN     716220 LONDON CS                        ON CA  4303  -8115   278  0
 CYXU     716230 LONDON AIRPORT                   ON CA  4302  -8115   278  0
 CWPS     714640 LONG POINT (MAPS                 ON CA  4257  -8003   175  0
@@ -4454,7 +4350,6 @@ CWER     714240 ILE D'ORLEANS(AU                 QC CA  4700  -7081     5  0
 CWAF     714260 ILE ROUGE(MAPS)                  QC CA  4807  -6953     5  0
 CYGR     717090 ILES DE LA MADEL                 QC CA  4742  -6177    10  0
 CWGR     717100 ILES-DE-LA-MADEL                 QC CA  4742  -6180    60  0
-         719070 INUKJUAK                         QC CA  5845  -7808     3  0
 CYPH     713060 INUKJUAK                         QC CA  5847  -7808    25  0
 CYIK     999999 IVUJIVIK ARPT(SA                 QC CA  6242  -7793    42  0
 CWJO     716170 JONQUIERE(AUTO)                  QC CA  4843  -7115   133  0
@@ -4642,28 +4537,22 @@ MMCB     767260 CUERNAVACA                       -- MX  1882  -9927  1560  0
 MMCL     764120 CULIACAN (CITY)                  -- MX  2477 -10747    39  0
 MMLO     767520 DEL BAJIO/LEON                   -- MX  2100 -10147  1819  0
 MMGL     999999 GUADALAJARA                      -- MX  2052 -10332  1528  0
-         766120 GUADALAJARA                      -- MX  2067 -10338  1551  0
 MMDO     764230 DURANGO AIRPORT                  -- MX  2412 -10452  1857  0
 MMGM     999999 GUAYMAS INTL ARP                 -- MX  2795 -11092    20  0
-         762560 EMPALME                          -- MX  2795 -11077    12  0
 MMHO     761600 HERMOSILLO INTL                  -- MX  2908 -11105   184  0
 MMGD     761510 ISLA GUADALUPE                   -- MX  2917 -11832    25  0
 MMSC     767230 ISLA SOCORRO                     -- MX  1872 -11095    35  0
 MMZH     999999 IXTAPA ZIHUATANE                 -- MX  1760 -10147     6  0
 MMIT     999999 IXTEPEC OX                       -- MX  1645  -9508    61  0
 MMLP     999999 LA PAZ INTL AIRP                 -- MX  2407 -11037    21  0
-         764050 LA PAZ                           -- MX  2417 -11030    18  0
 MMLT     763050 LORETO                           -- MX  2602 -11133    15  0
 MMLM     999999 LOS MOCHIS AIRPO                 -- MX  2567 -10907     4  0
 MMZO     999999 MANZANILLO INTL                  -- MX  1913 -10457     8  0
-         766540 MANZANILLO                       -- MX  1905 -10432     3  0
 MMMA     999999 MATAMOROS INTL                   -- MX  2577  -9752     8  0
 MMMZ     999999 MAZATLAN/G. BUEL                 -- MX  2317 -10627    10  0
-         764580 MAZATLAN                         -- MX  2320 -10642     4  0
 MMMD     766440 MERIDA INTL ARPT                 -- MX  2095  -8965    10  0
 MMML     999999 MEXICALI INTL AR                 -- MX  3261 -11523    22  0
 MMMX     999999 MEXICO CITY/LICE                 -- MX  1942  -9908  2238  0
-         766790 MEXICO CITY/TACU                 -- MX  1939  -9920  2313  0
 MMMT     999999 MINATITLAN                       -- MX  1810  -9457    40  0
 MMMV     763420 MONCLOVA                         -- MX  2695 -10147   615  0
 MMAN     763940 MONTERREY INTL A                 -- MX  2587 -10023   448  0
@@ -4679,17 +4568,14 @@ MMPE     999999 PUERTO PENASCO                   -- MX  3135 -11352     9  0
 MMPQ     999999 PALENQUE                         -- MX  1753  -9198    61  0
 MMPS     999999 PUERTO ESCONDIDO                 -- MX  1587  -9707    88  0
 MMPR     999999 PUERTO VALLARTA                  -- MX  2067 -10525     6  0
-         760610 PUNTA PENASCO                    -- MX  3118 -11333    14  0
 MMQT     766250 QUERETARO                        -- MX  2062 -10018  1813  0
 MMRX     999999 REYNOSA INTL ARP                 -- MX  2602  -9822    39  0
 MMIO     763900 SALTILLO                         -- MX  2555 -10093  1790  0
 MMSD     999999 SAN JOSE DEL CAB                 -- MX  2313 -10970   109  0
 MMSL     999999 CABO SAN LUCAS                   -- MX  2295 -10993   140  0
 MMSP     765390 SAN LUIS POTOSI                  -- MX  2225 -10093  1903  0
-         762530 SANTA ROSALIA                    -- MX  2732 -11228    75  0
 MMTM     765480 TAMPICO/GEN FJ M                 -- MX  2227  -9787    24  0
 MMTP     999999 TAPACHULA                        -- MX  1477  -9237    29  0
-         769030 TAPACHULA                        -- MX  1488  -9230   119  0
 MMEP     765560 TEPIC                            -- MX  2142 -10485   922  0
 MMTJ     999999 TIJUANA INTL ARP                 -- MX  3253 -11697   152  0
 MMTO     999999 TOLUCA/JOSE MARI                 -- MX  1935  -9957  2576  0
@@ -4700,15 +4586,11 @@ MMTB     999999 TUXTLA GUTIERREZ                 -- MX  1673  -9317   528  0
 MMPN     999999 URUAPAN/GEN RAYO                 -- MX  1938 -10202  1593  0
 MMVR     766920 VERACRUZ                         -- MX  1914  -9618    16  0
 MMVA     999999 VILLAHERMOSA                     -- MX  1800  -9282    13  0
-         767430 VILLAHERMOSA                     -- MX  1798  -9293     6  0
 MMZC     999999 ZACATECAS ARPT                   -- MX  2290 -10268  2177  0
-         765260 ZACATECAS                        -- MX  2275 -10250  2265  0
 MMZA     999999 GUADALUPE/ZACATE                 -- MX  2275 -10250  2265  0
-         769040 TAPACHULA                        -- MX  1477  -9237    29  0
 PGUM     999999 AGANA                            GU US  1348  14480    91  0
 PGUA     912180 MARIANA/ANDERSEN                 GU US  1357  14491   187  0
 PGAC     912120 TAGUAC                           GU US  1355  14482   111  0
-         912170 TAGUAC                           GU US  1355  14482   111  0
 PGWT     912330 PEIPEINIMARU/TIN                 GU US  1498  14562    82  0
 PAGP     994510 PAGAN/N. MARIANA                 UM US  1800  14541     2  0
 PGNT     999999 SABANETTAN/TINIA                 UM US  1500  14562    80  0
@@ -5028,9 +4910,6 @@ SYCJ     810020 GEORGETOWN/TIMEH                 -- GY   650  -5825    30  0
 SYKM     810050 KAMARANG                         -- GY   587  -6062   488  0
 SYKT     999999 KATO                             -- GY   465  -5983   701  0
 SYLT     810060 LETHEM                           -- GY   337  -5978   107  0
-         810100 EBINI                            -- GY   557  -5778    29  0
-         810580 NEW AMSTERDAM                    -- GY   625  -5730     2  0
-         810800 KAIETEUR FALLS                   -- GY   518  -5948   439  0
 SYTM     999999 GEORGETOWN/TIMEH                 -- GY   650  -5825    30  0
 SEAM     841470 AMBATO/CHACHOAN                  -- EC  -118  -7856  2520  0
 SEAS     999999 ASCAZUBI                         -- EC    -7  -7828  2743  0
@@ -5304,9 +5183,6 @@ SBYA     820680 IAUARETE (PRIVAT                 -- BR    62  -6920   105  0
 SBYS     836710 PIRASSUNUNGA/CAM                 -- BR -2197  -4732   598  0
 SWBC     821130 BARCELOS                         -- BR   -97  -6292    40  0
 SWPI     999999 PARINTINS                        -- BR  -267  -5678    27  0
-         827230 LABREA                           -- BR  -725  -6483    60  0
-         827040 CRUZEIRO DO SUL                  -- BR  -762  -7267   170  0
-         822810 SAO LUIS/MARECHA                 -- BR  -260  -4422    53  0
 SGAS     862180 ASUNCION/SILVIO                  -- PY -2525  -5752   101  0
 SGCO     861340 CONCEPCION/MARIS                 -- PY -2342  -5728    74  0
 SGEN     862970 ENCARNACION                      -- PY -2732  -5582    91  0
@@ -5526,7 +5402,6 @@ BGTM     999999 TINGMIARMIUT                     -- GL  6242  -4225    10  0
 BGUK     999999 UPERNAVIK                        -- GL  7278  -5613   127  0
 BGUQ     999999 UUMMANNAQ/QAARSU                 -- GL  7073  -5270     2  0
 BGUP      42090 UPERNAVIK AWS (A                 -- GL  7277  -5617    63  0
-          43420 WALRUS BAY                       -- GL  7050  -2197     7  0
 BIKA      43530 IKATEQ                           -- GL  6593  -3668    56  0
 BMKA      42550 MARRAK POINT                     -- GL  6343  -5118    41  0
 BIAR      40630 AKUREYRI                         -- IS  6567  -1807    27  0
@@ -5542,7 +5417,6 @@ BIRK      40300 REYKJAVIK (NOTAM                 -- IS  6413  -2193    61  0
 BIST      40130 STYKKISHOLMUR                    -- IS  6506  -2272     8  0
 BIVM      40480 VESTMANNAEYJAR (                 -- IS  6342  -2027   124  0
 BIVO      40850 SKJALDTHINGSSTAD                 -- IS  6575  -1482    48  0
-          40010 HVALLATUR                        -- IS  6553  -2447    17  0
 EBAW      64500 ANTWERP/DEURNE                   -- BE  5120    447    14  0
 EBBE      64580 BEAUVECHAIN (BAF                 -- BE  5075    476   127  0
 EBBL      64790 KLEINE-BROGEL(BA                 -- BE  5117    547    64  0
@@ -5574,7 +5448,6 @@ EBWE      64620 WEELDE (MIL)                     -- BE  5142    500    60  0
 EBWM     999999 BRUSSELS (MIL)                   -- BE  5088    451    58  0
 EBZH     999999 HASSELT KIVIT                    -- BE  5097    538    43  0
 EBZW      64810 GENK/ZWARTBERG                   -- BE  5102    553    63  0
-          64470 UCCLE/UKKLE                      -- BE  5080    434   100  0
 EBGT      64310 GENT/INDUSTRY ZO                 -- BE  5118    380    13  0
 EBMT     999999 MUNTE (MIL)                      -- BE  5092    372    60  0
 EDAC     999999 ALTENBURG-NOBITZ                 -- DE  5098   1250   195  0
@@ -5710,7 +5583,6 @@ ETUO     103200 GUETERSLOH (RAF)                 -- DE  5178    830    72  0
 ETUR     104010 BRUGGEN (RAF)                    -- DE  5120    612    76  0
 ETWM     999999 MEPPEN                           -- DE  5272    733    21  0
 EDLG     999999 MUENSTER/OSNABRU                 -- DE  5212    770    52  0
-         108660 MUNICH-RIEM EDDM                 -- DE  4812   1168   529  0
 EDVV     999999 HANNOVER                         -- DE  5247    968    54  0
 EDLE     999999 ESSEN                            -- DE  5140    697   161  0
 EDZB     999999 BERGEN/HOHNE                     -- DE  5282    992    70  0
@@ -9438,8 +9310,8 @@ KQSN     999999 FOB SHANK                        -- AF  3393   6906  2009  0
 KQWL     999999 FOB WILSON                       -- AF  3158   6543   959  0
 KQXT     999999 FOB DWYER                        -- AF  3110   6408   722  0
 KQA4     999999 FOB SHINDAND                     -- AF  3340   6225  1139  0
-         999999 FARAH PRT  KQAR                  -- AF  3236   6218   668  0
-         999999 C. ANACONDA KQAZ                 -- AF  3295   6663  2011  0
+KQAR     999999 FARAH PRT  KQAR                  -- AF  3236   6218   668  0
+KQAZ     999999 C. ANACONDA KQAZ                 -- AF  3295   6663  2011  0
 KQYU     999999 FOB STONE                        -- AF  3411   6222  1102  0
 KQQN     999999 QAL-E-NAW                        -- AF  3497   6312   898  0
 KQTD     999999 FOB TODD                         -- AF  3560   6330   450  0
