@@ -7757,6 +7757,7 @@ IN VALLABH VIDYANAG             42744  22 34N  072 56E   43   X
 IN VALPARAI                     43341  10 17N  077 00E 1041   X
 IN VARANASI                     42483  25 18N  083 01E   90   X
 IN VARANASI         VIBN  VNS   42479  25 27N  082 52E   81   X        X  X
+IN VARANASI         VEBN  VNS   42479  25 27N  082 52E   81   X        X  X
 IN VELLORE          VOVR        43303  12 55N  079 09E  214   X
 IN VENGURDA                     43193  15 52N  073 38E   16   X
 IN VERAVAL                      42909  20 54N  070 22E    8   X
