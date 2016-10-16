@@ -8,10 +8,10 @@ script to transform the CSVs the GeoJSON
 
 ### requirement
 
-GDAL (`ogr2ogr`) with GeoJSON driver
+GDAL (`ogr2ogr`) with GeoJSON driver, sed, awk
 
 ### execute
 
 1. `cd geojson`
-2. `rm *.json*`
-3. `./raw2geojson.sh`
+2. `rm *.json`
+3. `./source2geojson.sh`
