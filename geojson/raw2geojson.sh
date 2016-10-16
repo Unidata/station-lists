@@ -1,11 +1,10 @@
 #!/bin/bash
 
+PWD=$(pwd)
+
 echo ""
 echo "processing airport-codes.csv..."
 echo ""
-
-PWD=$(pwd)
-
 ogr2ogr -f "GeoJSON" airport-codes.json "
 		<OGRVRTDataSource>
 		    <OGRVRTLayer name='airport-codes'>
@@ -26,3 +25,23 @@ ogr2ogr -f "GeoJSON" airport-codes.json "
 		        <Field name='local_code' src='local_code' type='String'/>
 		    </OGRVRTLayer>
 		</OGRVRTDataSource>"
+
+echo ""
+echo "processing lsystns.upc... (not implemented yet)"
+echo ""
+
+echo ""
+echo "processing madis-stations.txt... (not implemented yet)"
+echo ""
+
+echo ""
+echo "processing master.txt... (not implemented yet)"
+echo ""
+
+echo ""
+echo "processing sfstns.tbl... (not implemented yet)"
+echo ""
+
+echo ""
+echo "processing stations.txt... (not implemented yet)"
+echo ""
