@@ -4,7 +4,7 @@ PWD=$(pwd)
 
 echo ""
 echo "processing airport-codes.csv..."
-echo ""
+echo "1/1 ogr2ogr.."
 ogr2ogr -f "GeoJSON" airport-codes.json "
 		<OGRVRTDataSource>
 		    <OGRVRTLayer name='airport-codes'>
@@ -39,8 +39,39 @@ echo "processing master.txt... (not implemented yet)"
 echo ""
 
 echo ""
-echo "processing sfstns.tbl... (not implemented yet)"
-echo ""
+echo "processing sfstns.tbl..."
+echo "1/5 create sfstns.tbl.csv.tmp.. (may take a wile)"
+cat ../source/sfstns.tbl | while read line
+do
+   echo $(echo ${line:0:9} | sed 's/ //g'),$(echo ${line:9:7} | sed 's/ //g'),$(echo ${line:16:33} | sed 's/ //g'),$(echo ${line:49:3} | sed 's/ //g'),$(echo ${line:52:3} | sed 's/ //g'),$(echo ${line:55:6} | sed 's/ //g'),$(echo ${line:61:7} | sed 's/ //g'),$(echo ${line:68:6} | sed 's/ //g') \
+   >> sfstns.tbl.csv.tmp
+done
+
+echo "2/5 create sfstns.tbl.csv with correct lat lon.."
+LC_NUMERIC=en_US.UTF-8 awk '{FS=","; OFS=","; lat = $6 / 100 ; lon = $7 / 100; print $1,$2,$3,$4,$5,lat,lon,$8}' sfstns.tbl.csv.tmp > sfstns.tbl.csv
+
+echo "3/5 add header to correct csv.."
+echo -e "stid,synop_id,name,state,country,lat,lon,alt\n$(cat sfstns.tbl.csv)" > sfstns.tbl.csv
+
+echo "4/5 ogr2ogr.."
+ogr2ogr -f "GeoJSON" sfstns.tbl.json "
+		<OGRVRTDataSource>
+		    <OGRVRTLayer name='sfstns.tbl'>
+		        <SrcDataSource>${PWD}/sfstns.tbl.csv</SrcDataSource>
+		        <GeometryType>wkbPoint</GeometryType>
+		        <LayerSRS>WGS84</LayerSRS>
+		        <GeometryField encoding='PointFromColumns' x='lon' y='lat'/>
+		        <Field name='stid' src='stid' type='String'/>
+		        <Field name='synop_id' src='synop_id' type='Integer'/>
+		        <Field name='name' src='name' type='String'/>
+		        <Field name='state' src='state' type='String'/>
+		        <Field name='country' src='country' type='String'/>
+		        <Field name='alt' src='alt' type='Integer'/>
+		    </OGRVRTLayer>
+		</OGRVRTDataSource>"
+
+echo "5/5 delete sfstns.tbl.csv*.."
+rm sfstns.tbl.csv*
 
 echo ""
 echo "processing stations.txt... (not implemented yet)"
