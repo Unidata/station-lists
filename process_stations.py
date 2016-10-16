@@ -126,7 +126,7 @@ def read_airports_file(filename='airport-codes.csv'):
     with open(filename, 'rt') as station_file:
         station_file.readline()  # Skip header
         csvreader = csv.reader(station_file)
-        for stid, *info in csvreader:
+        for stid, info in csvreader:
             new_stid = info[9]  # Use GPS code rather than ID at start of line
             if not stid.endswith(new_stid):
                 stid = new_stid
