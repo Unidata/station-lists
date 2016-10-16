@@ -13,4 +13,5 @@ GDAL (`ogr2ogr`) with GeoJSON driver
 ### execute
 
 1. `cd geojson`
-2. `./raw2geojson.sh`
+2. `rm *.json*`
+3. `./raw2geojson.sh`
